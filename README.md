@@ -1,64 +1,65 @@
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250" />
-  <h1>Hi 👋, I'm Dulitha Wickramasinghe</h1>
-  <p><strong>SOC Analyst | Detection Engineer | Cyber Security Undergraduate</strong></p>
-
-  <a href="https://www.linkedin.com/in/dulithawickramasinghe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://dulitha.silentwatch.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="https://tryhackme.com/p/dulithawickramas"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-  <a href="https://www.credly.com/users/dulitha-wickramasinghe/badges"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
-</div>
+<h1 align="center">Hi 👋, I'm Dulitha</h1>
+<h3 align="center">Cyber Security Analyst | SOC | Threat Detection | Blue Team</h3>
 
 ---
 
-### 🧠 Professional Profile
+## 🛡️ About Me
 
-Cyber Security Analyst specializing in **SOC Operations, Detection Engineering, and Incident Response**.  
-I bridge the gap between **Offensive Security (Pentesting & VAPT)** and **Defensive Monitoring (XDR, SIEM, Threat Hunting)**.
-
-- 🛡️ **SOC Operations:** Tier 1 & Tier 2 monitoring & triage  
-- 🔍 **Threat Hunting:** Proactive TTP detection & BIOC development  
-- ☁️ **Cloud Security:** Hardening Azure & Microsoft 365  
-- 🎯 **Offensive Security:** Vulnerability Assessments & Penetration Testing  
-- 📊 **Detection Engineering:** Correlation rules & behavioral analytics  
+🔹 Cyber Security Analyst with hands-on experience in SOC operations, threat hunting, penetration testing, and vulnerability management.  
+🔹 Passionate about Detection Engineering, Incident Response, and Security Automation.  
+🔹 Experienced in Microsoft Security Stack, Palo Alto Networks, and Enterprise Security Monitoring.
 
 ---
 
-## 🛡️ Cybersecurity Stack
+## 🔐 Security Tools & Technologies
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Endpoint & XDR** | ![CrowdStrike](https://img.shields.io/badge/CrowdStrike-Falcon%20XDR-E01E2B?style=flat-square) ![Microsoft Defender](https://img.shields.io/badge/Microsoft-Defender%20XDR-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![Cortex](https://img.shields.io/badge/PaloAlto-Cortex%20XDR-F04E23?style=flat-square) |
-| **Network & Email Security** | ![Prisma](https://img.shields.io/badge/Prisma-Access-009639?style=flat-square) ![Mimecast](https://img.shields.io/badge/Mimecast-Email%20Security-003A70?style=flat-square) ![KnowBe4](https://img.shields.io/badge/KnowBe4-Phishing%20Simulations-FFCC00?style=flat-square) |
-| **Cloud & Identity** | ![Azure](https://img.shields.io/badge/Azure-Security-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) ![Sentinel](https://img.shields.io/badge/Microsoft-Sentinel-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![Intune](https://img.shields.io/badge/Microsoft-Intune-5E5E5E?style=flat-square&logo=microsoft&logoColor=white) ![M365](https://img.shields.io/badge/Microsoft-365%20Security-D83B01?style=flat-square&logo=microsoft&logoColor=white) ![EntraID](https://img.shields.io/badge/Microsoft-Entra%20ID-5C2D91?style=flat-square&logo=microsoft&logoColor=white) |
-| **Monitoring & Detection** | ![Datadog](https://img.shields.io/badge/Datadog-Monitoring-632CA6?style=flat-square&logo=datadog&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-005571?style=flat-square) ![Security Onion](https://img.shields.io/badge/Security%20Onion-Network%20Security-4B8BBE?style=flat-square) |
-| **Offensive & Assessment** | ![Nessus](https://img.shields.io/badge/Nessus-Professional-00C176?style=flat-square) ![Burp](https://img.shields.io/badge/Burp-Suite%20Pro-FF6633?style=flat-square&logo=portswigger&logoColor=white) |
+### 🚨 Endpoint & XDR
+<p>
+  <img src="https://img.shields.io/badge/CrowdStrike-Falcon%20XDR-red?style=for-the-badge&logo=crowdstrike&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft-Defender%20XDR-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PaloAlto-Cortex%20XDR-orange?style=for-the-badge&logo=paloaltonetworks&logoColor=white"/>
+</p>
 
----
+### 🌐 Network & Cloud Security
+<p>
+  <img src="https://img.shields.io/badge/Prisma-Access-blue?style=for-the-badge&logo=paloaltonetworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-Security%20Center-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft-Sentinel-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</p>
 
-## 💻 Development & Environment
+### 📧 Email Security
+<p>
+  <img src="https://img.shields.io/badge/Microsoft-Defender%20for%20Office365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mimecast-Email%20Security-purple?style=for-the-badge"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🧪 Vulnerability & Pentesting
+<p>
+  <img src="https://img.shields.io/badge/Nessus-Professional-00C176?style=for-the-badge&logo=tenable&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp-Suite%20Pro-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+</p>
+
+### 📊 Monitoring & SIEM
+<p>
+  <img src="https://img.shields.io/badge/Datadog-Monitoring-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wazuh-SIEM-026C9C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SecurityOnion-Network%20Monitoring-000000?style=for-the-badge"/>
+</p>
+
+### 🖥️ Device & Identity Management
+<p>
+  <img src="https://img.shields.io/badge/Microsoft-Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft-Entra%20ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft-365%20Security-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</p>
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dulitha99&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulitha99&layout=compact&theme=tokyonight&langs_count=8" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dulitha99&theme=tokyonight" />
 </p>
-
----
-
-## 📈 Language Breakdown (Across All Repositories)
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dulitha99&theme=tokyonight" width="48%" />
@@ -67,22 +68,35 @@ I bridge the gap between **Offensive Security (Pentesting & VAPT)** and **Defens
 
 ---
 
-## 🎯 Current Focus
+## 💻 Programming & Scripting
 
-- 🔎 Advanced Threat Hunting
-- 📊 Microsoft Sentinel KQL Mastery
-- 🛠️ Detection Engineering & Automation
-- 🤖 AI for Security Operations
-- 🧠 Red Team vs Blue Team Simulation Labs
+<p>
+  <img src="https://img.shields.io/badge/Python-30%25-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-20%25-012456?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-15%25-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-15%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-10%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML%2FCSS-10%25-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
 
 ---
 
-## 📫 Get In Touch
+## 🎯 Current Focus
 
-- 🌐 [Portfolio](https://dulitha.silentwatch.me)
-- 📧 dulitha.wickramasinghe@silentwatch.me
-- 📧 dulithawickramasinghe@gmail.com
+- 🔍 Threat Hunting & Detection Engineering
+- 🛡️ Incident Response & SOC Optimization
+- ☁️ Cloud Security (Azure Security Stack)
+- 🤖 Security Automation & Playbooks
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dulitha99&color=blueviolet" alt="Profile Views" />
-</div>
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/your-linkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
